@@ -18,3 +18,4 @@ For predictions the inputs should be provided as a text file with one example pe
 python transliterate.py --decode_input_file=<filename>
 ```
 The predictions will be written into a corresponding `filename.out.ext`
+![translitration_affann_amharic](https://user-images.githubusercontent.com/13717790/110749855-b32e0980-8252-11eb-9f5e-388072f0a531.PNG)
